@@ -1,2 +1,1 @@
 # .github
-Laravel feature flags
