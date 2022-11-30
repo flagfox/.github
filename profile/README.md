@@ -11,16 +11,19 @@ We are an engineer and a designer who work together daily and have a collaborati
 
 We've gone through all the little awkward and painful moments that can crop up naturally in a product development cycle. You know, the ones:
 - Charlie, the engineer, has smashed it. All their code is complete, perfect and ready for merging.
-- But Charlie has to wait until when Lee, the marketer, is ready to release the feature to users.
+- But Charlie has to wait until when Jonathan, the marketer, is ready to release the feature to users.
 - While waiting, other PRs cause merge conflicts, triggering new code reviews and testing, which just busts Charlie's bubble.
-- But Lee is now ready to go and has to wait on Charlie to finish up,  so Lee delays the launch and creates a new plan.
-- Now Charlie is ready, but Lee's timing plan doesn't match, so we are back with Charlie waiting and accumulating merge knock-ons.
+- But Jonathan is now ready to go and has to wait on Charlie to finish up, so Jonathan delays the launch and creates a new plan.
+- Now Charlie is ready, but Jonathan's timing doesn't match, so we are back with Charlie waiting and accumulating merge knock-ons.
 
 Booooo.. hisssssss.... This sucks!
 
 ## Well what the _fox_ are you going to do about it?!! 
 
-We are fully embracing the power of feature flagging as a potential red pill to help solve the headache of multi-feature-branch development. We are building off the learnings gained from Peter's open-source feature flag package and wrapping it in a powerful dashboard which you can install into your projects.
+We are fully embracing the power of feature flagging as a potential red pill to help solve the headache of multi-feature-branch development. We are building off the learnings gained from Peter's [open-source feature flag package](https://github.com/ylsideas/feature-flags) and wrapping it in a powerful dashboard which you can install into Laravel your projects.
+
+And, we loveeee Laravel. So you better believe it we are chucking loads of effort into making this a super easy, install which brings you instant value.
+We wrote up something much more comprehensive about the [features we are going to offer](https://flagfox.dev/#features) on our website, so clicky click over there and have a nosy. Spolier alert: Customer segmentation, scheduling and gradual launch rollout, intuitive user experience... and more.
 
 ## Fantastic!! So how the _fox_ do I learn more?
 
