@@ -22,8 +22,10 @@ Booooo.. hisssssss.... This sucks!
 
 We are fully embracing the power of feature flagging as a potential red pill to help solve the headache of multi-feature-branch development. We are building off the learnings gained from Peter's [open-source feature flag package](https://github.com/ylsideas/feature-flags) and wrapping it in a powerful dashboard which you can install into Laravel your projects.
 
-And, we loveeee Laravel. So you better believe it we are chucking loads of effort into making this a super easy, install which brings you instant value.
-We wrote up something much more comprehensive about the [features we are going to offer](https://flagfox.dev/#features) on our website, so clicky click over there and have a nosy. Spolier alert: Customer segmentation, scheduling and gradual launch rollout, intuitive user experience... and more.
+And, we love Laravel. It's easy to use, not overly technical and empowers you to just get on with building cool stuff. And the community around Laravel is wonderfully welcoming, supportive and down to earth. So you better believe it we are chucking loads of effort into making this a super easy, install which brings you instant value.
+
+We wrote up something much more comprehensive about the [features we are going to offer](https://flagfox.dev/#features) on our website, so clicky click over there. Spolier alert: Customer segmentation, scheduling and gradual launch rollout, intuitive user experience... and more.
+
 
 ## Fantastic!! So how the _fox_ do I learn more?
 
