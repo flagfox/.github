@@ -15,6 +15,7 @@ We've gone through all the little awkward and painful moments that can crop up n
 - While waiting, other PRs cause merge conflicts, triggering new code reviews and testing, which just busts Charlie's bubble.
 - But Lee is now ready to go and has to wait on Charlie to finish up,  so Lee delays the launch and creates a new plan.
 - Now Charlie is ready, but Lee's timing plan doesn't match, so we are back with Charlie waiting and accumulating merge knock-ons.
+
 Booooo.. hisssssss.... This sucks!
 
 ## Well what the _fox_ are you going to do about it?!! 
