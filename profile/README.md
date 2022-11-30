@@ -12,7 +12,7 @@ We are an engineer and a designer who work together daily and have a collaborati
 We've gone through all the little awkward and painful moments that can crop up naturally in a product development cycle. You know, the ones:
 - Charlie, the engineer, has smashed it. All their code is complete, perfect and ready for merging.
 - But Charlie has to wait until when Jonathan, the marketer, is ready to release the feature to users.
-- While waiting, other PRs cause merge conflicts, triggering new code reviews and testing, which just busts Charlie's bubble.
+- While waiting, other pull requests cause merge conflicts, triggering new code reviews and testing, which just busts Charlie's bubble.
 - But Jonathan is now ready to go and has to wait on Charlie to finish up, so Jonathan delays the launch and creates a new plan.
 - Now Charlie is ready, but Jonathan's timing doesn't match, so we are back with Charlie waiting and accumulating merge knock-ons.
 
