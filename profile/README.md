@@ -1,3 +1,5 @@
+![Flagfox - A better way to implement and manage feature flagging in Laravel.](https://github.com/flagfox/marketing-site/blob/9c3231a6227ea6df7ec22d8cce3a5e57131664fd/src/img/github-readme-image.png)
+
 # Howdy folks! We are Flagfox 🦊
 
 You might have found your way here because of Peter's popular [feature flagging Laravel package](https://github.com/ylsideas/feature-flags), or perhaps you follow Caroline's [sporatic and sometimes clever tweets](https://www.carolinepixels.com), or maybe you've read some of our open build articles. Whichever way you've found us, we are happy you are here. DON'T LEAVE! Oh, sorry, that was a bit full-on. I'm just keen.
